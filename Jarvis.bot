@@ -1,0 +1,18 @@
+{
+    "name": "Jarvis",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "156ec840-8485-11ea-91f9-276623a5b182",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\dotnetdev\\Bots\\BookAssistanceBot\\BookAssistanceBot\\Jarvis.bot"
+}
