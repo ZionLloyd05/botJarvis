@@ -2,7 +2,7 @@
 
 My personal Book Assistant Bot.
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), and it helps me fetch the top 3 book on any subject matter.
+This bot has been created using [Bot Framework](https://dev.botframework.com), and it helps me fetch the top 3 books of any category, according to my search input.
 ## Further reading
 
 - [Bot Framework Documentation](https://docs.botframework.com)
